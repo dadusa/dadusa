@@ -1,5 +1,8 @@
-## Hi there 👋
 # **Carlos Eduardo Marques Vidal** 
+
+<img src="https://raw.githubusercontent.com/dadusa/dadusa/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Sobre mim:
 - Acadêmico em Engenharia da Computação com fascínio por tecnologia e inovação, meu hobby e criar e desenvolver soluções.
