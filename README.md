@@ -1,12 +1,13 @@
 # **Carlos Eduardo Marques Vidal** 
 
-<img src="https://raw.githubusercontent.com/dadusa/dadusa/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Sobre mim:
 - Acadêmico em Engenharia da Computação com fascínio por tecnologia e inovação, meu hobby e criar e desenvolver soluções.
 
+- ## Entre em contato comigo:
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/eduardo_vidal7/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eduardo_vidal7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vidal/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:edu.vidal10@gmail.com)
 ## Objetivos: 🎯
 Aqui coloco meus objetivos de forma resumida em lista: 📃
 
@@ -38,6 +39,3 @@ Aqui coloco meus objetivos de forma resumida em lista: 📃
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadusa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dadusa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Troque ideia comigo:
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/eduardo_vidal7/)
